@@ -1,0 +1,57 @@
+
+h3{color:darkred; font-family: Space Grotesk; font-size: 40px; margin: 0% 5%;}
+
+h2 {color:rgb(84, 0, 84); font-family: Space Grotesk; font-size: 50px; margin-left: 5%;}
+
+h1 {font-family: Space Grotesk; font-size: 70px; margin-left: 5%;}
+
+nav { color:darkred; font-family: Rubik Iso; font-size: 80px; margin-left: 5%;}
+
+p { color:darkred; font-family: Space Grotesk; font-size: 27px; margin-left: 5%; margin-right: 5%; }
+
+body {
+    background-color:thistle
+}
+
+#Rise {
+    width:30%;
+    height:autopx;
+    float: right;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#teletubbies {
+    width:30%;
+    height:autopx;
+    float: right;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#DoorKnob1 {
+    width:30%;
+    height:autopx;
+    float: left;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#DoorKnob2 {
+    width:30%;
+    height:autopx;
+    float: right;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#Stalker {
+    width:40%;
+    height:autopx;
+    float: left;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#portrait {
+    width:30%;
+    height:autopx;
+    float: right;
+    margin-right: 5%;
+    margin-left: 5%;
+}
